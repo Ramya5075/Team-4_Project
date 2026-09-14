@@ -1,0 +1,19 @@
+﻿# Java
+*.class
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# TypeScript
+*.js.map
+
+# Environment / secrets
+.env
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
