@@ -1,2 +1,24 @@
+<<<<<<< HEAD
 ﻿node_modules/
 TypeScript/*.js
+=======
+﻿# Java
+*.class
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# TypeScript
+*.js.map
+
+# Environment / secrets
+.env
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+>>>>>>> a145b2fd8fdd33e7dacbbbf1004f9f1781c8d834

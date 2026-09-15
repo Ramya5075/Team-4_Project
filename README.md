@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # K.RamyaSri Programming Tasks
 
 This folder contains the programming tasks from the provided internship document, organized by language.
@@ -11,3 +12,6 @@ This folder contains the programming tasks from the provided internship document
 ## Note
 
 The first question under the document's “Java Programming Questions” section is a TypeScript program demonstrating single inheritance, so it is stored under the TypeScript folder.
+=======
+# Team-5_Project
+>>>>>>> a145b2fd8fdd33e7dacbbbf1004f9f1781c8d834
