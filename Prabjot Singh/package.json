@@ -1,0 +1,17 @@
+﻿{
+  "name": "prabjot-singh_programming-tasks",
+  "version": "1.0.0",
+  "description": "Virtusa training assignment - Java, JavaScript and TypeScript programs by Prabjot Singh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Prabjot Singh",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/node": "^26.5.1",
+    "typescript": "^7.0.2"
+  }
+}
